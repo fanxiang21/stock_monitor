@@ -1,0 +1,8 @@
+2025-04-20 11:24:39,757 - INFO - 开始监控股票排名...
+2025-04-20 11:27:29,519 - ERROR - 获取股票名称失败: HTTPConnectionPool(host='push2.eastmoney.com', port=80): Read timed out. (read timeout=None)
+2025-04-20 11:28:52,671 - ERROR - 获取股票名称失败: HTTPConnectionPool(host='push2.eastmoney.com', port=80): Read timed out. (read timeout=None)
+2025-04-20 11:30:14,825 - ERROR - 获取股票名称失败: HTTPConnectionPool(host='push2.eastmoney.com', port=80): Read timed out. (read timeout=None)
+2025-04-20 11:30:36,121 - ERROR - 获取股票名称失败: HTTPConnectionPool(host='push2.eastmoney.com', port=80): Read timed out. (read timeout=None)
+2025-04-20 11:34:06,646 - ERROR - 获取股票名称失败: HTTPConnectionPool(host='push2.eastmoney.com', port=80): Read timed out. (read timeout=None)
+2025-04-20 11:38:43,547 - ERROR - 获取股票名称失败: HTTPConnectionPool(host='push2.eastmoney.com', port=80): Read timed out. (read timeout=None)
+2025-04-20 11:39:59,968 - INFO - 程序已停止

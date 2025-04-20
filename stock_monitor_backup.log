@@ -1,0 +1,8 @@
+2025-04-20 11:12:31,103 - INFO - 开始监控股票排名...
+2025-04-20 11:14:11,954 - ERROR - 获取股票名称失败: HTTPConnectionPool(host='push2.eastmoney.com', port=80): Read timed out. (read timeout=None)
+2025-04-20 11:16:38,142 - ERROR - 获取股票名称失败: HTTPConnectionPool(host='push2.eastmoney.com', port=80): Read timed out. (read timeout=None)
+2025-04-20 11:16:40,823 - INFO - 新股票进入前100！代码：SZ000935，名称：四川双马，排名：97
+2025-04-20 11:16:40,830 - INFO - 新股票进入前100！代码：SZ002553，名称：南方精工，排名：100
+2025-04-20 11:16:40,843 - INFO - 新股票进入前100！代码：SZ300100，名称：双林股份，排名：69
+2025-04-20 11:16:40,856 - INFO - 新股票进入前100！代码：SZ300252，名称：金信诺，排名：81
+2025-04-20 11:16:46,762 - INFO - 程序已停止
